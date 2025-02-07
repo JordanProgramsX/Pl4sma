@@ -114,3 +114,4 @@ NONE ITS PERFECT (submit a issue if you find one and ill fix it)
 ## ***`FAQ`***
 
 [FAQ.md](faq.md).
+[![powered by Ghostery](https://img.shields.io/badge/ghostery-powered-blue?logo=ghostery)](https://github.com/ghostery/adblocker)
